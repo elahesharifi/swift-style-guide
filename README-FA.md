@@ -1,12 +1,17 @@
-<div dir="rtl" markdown="1">
+<p dir="rtl">
 راهنمای اصول و قواعد کدنویسی به زبان سوئیفت.
+</p>
 
+<p dir="rtl">
 هدف از این راهنما، تشویق به استفاده از الگوهای نوشتاری است تا اهداف زیر (به ترتیب اهمیت تقریبی) برآورده شود:
+</p>
 
-1. افزایش دقت و کاهش اختمال خطاهای برنامه نویسی
-1. افزایش شفافیت در نیت
-1. کاهش میزان کدنویسی (پرگویی در کد)
-1. مباحثه کمتر در مورد زیبایی‌شناسی کد
+<ol dir="rtl">
+<li> افزایش دقت و کاهش اختمال خطاهای برنامه نویسی </li>
+<li>افزایش شفافیت در نیت</li>
+<li>کاهش میزان کدنویسی (پرگویی در کد)</li>
+<li>مباحثه کمتر در مورد زیبایی‌شناسی کد</li>
+ </ol>
 
 <p dir="rtl">
 اگر پیشنهادی دارید، لطفاً <a href="CONTRIBUTING.md">راهنمای کمک</a> به ما را مطالعه کنید.:zap:
@@ -311,4 +316,3 @@ _Rationale:_ Operators consist of punctuation characters, which can make them di
 * [한국어판](https://github.com/minsOne/swift-style-guide/blob/master/README_KR.md)
 * [Versión en Español](https://github.com/antoniosejas/swift-style-guide/blob/spanish/README-ES.md)
 * [Versão em Português do Brasil](https://github.com/fernandocastor/swift-style-guide/blob/master/README-PTBR.md)
-</div>
